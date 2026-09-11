@@ -1,3 +1,5 @@
+<img src="github_banner.png alt="Github Banner width="100%"">
+
 # About Me:
 Software Developer focused on building practical applications, exploring AI/ML, and solving real-world problems through code. Experienced with Python, C++, Flask, Flutter, and data-driven projects.<br>
 
