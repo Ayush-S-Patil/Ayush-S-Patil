@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software Developer focused on building practical applications, exploring AI/ML, and solving real-world problems through code. Experienced with Python, C++, Flask, Flutter, and data-driven projects.<br>
 
 
@@ -12,7 +12,5 @@ Software Developer focused on building practical applications, exploring AI/ML, 
 ![](https://streak-stats.demolab.com/?user=Ayush-S-Patil&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush-S-Patil&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush-S-Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
